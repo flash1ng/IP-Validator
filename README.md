@@ -28,7 +28,7 @@ print(result)  # Вывод: "Invalid"
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш_username/ip-validator.git
+git clone https://github.com/flash1ng/ip-validator.git
 cd ip-validator
 ```
 
